@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ABDUL KALAAM K M </h3>
-<h3>Register Number: 212223230003</h3>
+<h3>Name: MANOGARAN S </h3>
+<h3>Register Number: 212223240081</h3>
 
 
 <h3>AIM:</h3>
